@@ -1,0 +1,50 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 25%;
+  }
+
+.style{
+    margin-top: 20px;
+    margin-left: 75px ;
+    margin-right: 75px;
+}
+
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 25%;
+    margin-left: 25px;}
+
+.icon-display {
+  transform: scale(0.7);
+
+}
+
+.example-button-row button,
+.example-button-row a {
+  margin-right: 8px;
+}
+::ng-deep .snack-style{
+  background-color:#d4edda;
+  color: #155724;
+}
+.mat-radio-button ~ .mat-radio-button {
+  margin-left: 16px;
+}
+
+.btn-success {
+    margin-top: 20px;
+    margin-left: 80%;
+}
+  
